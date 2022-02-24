@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/47956053/add-a-discount-for-specific-selected-payment-method-in-woocommerce
+https://stackoverflow.com/questions/52120053/remove-some-payment-gateways-if-any-coupon-code-is-applied-in-woocommerce
+
+https://wordpress.org/plugins/wt-smart-coupons-for-woocommerce/
